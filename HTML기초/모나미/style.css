@@ -1,0 +1,21 @@
+body,ul,li{
+    margin: 0; padding: 0
+    list-style: none;
+}
+
+
+header{
+    /* 투명도 0~1*/
+    background-color: rgba(0,0,0,0.2);
+}
+/* component*/
+.con{
+    width: 1400px;
+    padding-left: ;
+}
+main{
+    border: 1px solid red
+}
+footer{
+    background-color: rgba;
+}
